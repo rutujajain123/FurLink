@@ -83,8 +83,5 @@ Mobile App – Native Android/iOS support.
 
 
 
-Push the branch
-
-Create a Pull Request
 
 
